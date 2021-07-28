@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSmith989&show_icons=true&theme=gruvbox&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSmith989&count_private=true&show_icons=true&theme=gruvbox)
 
 
 <!--
