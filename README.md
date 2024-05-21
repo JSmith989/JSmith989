@@ -41,7 +41,6 @@ I am a dedicated software developer with a passion for creating innovative solut
 
 ## Contact
 
-- **Mobile:** 989-385-0051
 - **Email:** [jordansmith989@gmail.com](mailto:jordansmith989@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jordansmith989](https://www.linkedin.com/in/jordansmith989)
 - **GitHub:** [github.com/JSmith989](https://github.com/JSmith989)
