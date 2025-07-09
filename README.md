@@ -9,11 +9,11 @@
 
 I am a dedicated software developer with a passion for creating innovative solutions. With over three years of professional experience, I have honed my skills in various technologies and frameworks, enabling me to tackle complex software engineering problems efficiently. Apart from coding, I am a father of two amazing boys, and I enjoy golfing, cooking, fishkeeping, and gardening.
 
-## Technical Skills
+## 🛠  Tech I Use
+| Front-End | Back-End | DevOps / Cloud | Tooling |
+|-----------|----------|----------------|---------|
+| React • TypeScript • Redux • Tailwind • Sass • HTML/CSS/JS | C# • ASP.NET Core • SQL • Python | Azure • AWS • Docker • Firebase • GitHub Actions | Git • Jira • Asana |
 
-- **Frontend:** React, Redux, Tailwind, Typescript, Sass, HTML, CSS, JavaScript, Bootstrap
-- **Backend:** C#, ASP.NET, SQL, Python
-- **Tools & Platforms:** Jira, Asana, Git, GitHub, Azure, AWS, Firebase
 
 ## Technical Experience
 
@@ -39,7 +39,12 @@ I am a dedicated software developer with a passion for creating innovative solut
 - Leveraged Azure and AWS for cloud infrastructure, including storage, computing, and database services.
 - Implemented CI/CD pipelines using Azure DevOps and GitHub Actions to automate builds, tests, and deployments.
 
-## Contact
+### 🔭 What I’m Exploring Now
+- Diving deeper into **Python** for data-rich back-end services  
+- Mastering advanced **TypeScript** patterns & React Server Components  
+- Kicking off my journey with **Ruby** (and eventually Rails)
+
+## 🤝  Let’s Connect
 
 - **Email:** [jordansmith989@gmail.com](mailto:jordansmith989@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jordansmith989](https://www.linkedin.com/in/jordansmith989)
